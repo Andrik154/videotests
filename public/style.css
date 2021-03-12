@@ -1,0 +1,151 @@
+::-moz-selection { /* Code for Firefox */
+  background: rgb(126, 116, 255);
+  color: white;
+}
+
+::selection {
+  background: rgb(126, 116, 255);
+  color: white;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5em;
+}
+header {
+  display:flex;
+  flex-direction:row;
+  align-items:center;  
+  position: fixed;
+  top:0;
+  width:100%;
+  height:auto;
+  z-index:100;
+  overflow:auto;
+  background-color:white;
+}
+  header #h{
+    cursor:pointer;
+  }
+  header h3#wait{
+    margin-left:10px;  
+  }
+  header h3#right{
+    margin-left:auto;
+  }
+  header button#copycode{
+    margin-left:15px;
+  }
+
+div.question{
+  width:60%;
+}
+  div.question img{
+    width:30%;
+  }
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+  max-width: calc(100% - 5rem);
+  line-height: 1.1;
+}
+h4{
+  margin-top:0.5em;
+  margin-bottom:0.5em;
+}
+main{
+  margin: 2em 1em;
+  padding-top:60px;
+}
+
+form {
+  background-color: #f9f5ff;
+  display: grid;
+  row-gap:0px;
+  padding: 1em;
+  width:100%;
+}
+  form input {
+    border: 1px solid silver;
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  form input[type="radio"], form input[type="checkbox"]{
+    filter:hue-rotate(32deg);
+  }
+  form div{
+    white-space:normal;
+  }
+  form b {
+    display:inline-block;
+  }
+  form p.option{
+    height:1em;
+    display:inline-block;
+  }
+  form div.option p{
+    display:inline;
+
+  }
+
+  form button {
+    background-color: #bbbbf2;
+    border: 2px solid currentColor;
+    border-radius: .25em;
+    cursor: pointer;
+    font-size: inherit;
+    line-height: 1.4em;
+    margin-top:0.5em;
+    padding: 0.25em 1em;
+    max-width: 20ch;
+  }
+  form button:hover {
+    background-color: lavender;
+  }
+
+  form label{
+    display:inline-block;
+    whitespase: nowrap;
+  }
+
+  form label p{
+    display:inline-block;
+  }
+  form select {
+    margin-right:4px;
+    font-size:16px;
+  }
+
+a.removeTest{
+  text-decoration-style:dotted;
+  font-size:10px;
+  margin-left:5px;
+  color: #373fff;
+}
+a.removeTest:visited{
+  color: #373fff;
+}
+
+
+footer {
+  margin: 2em 1em;
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid lightgrey;
+}
+
+@media (max-width:900px){
+  div.question{
+    width: 100%;
+  }
+  header h1{
+    font-size:1.5em;
+  }
+  
+}
+
