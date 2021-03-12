@@ -1,0 +1,1012 @@
+{
+  "answers": {
+    "task89447": 308868,
+    "task89449": [
+      308872
+    ],
+    "task89503": 309066,
+    "task133431": [
+      {
+        "answer_id": 460766,
+        "answer": 2
+      },
+      {
+        "answer_id": 460769,
+        "answer": 5
+      },
+      {
+        "answer_id": 460768,
+        "answer": 4
+      },
+      {
+        "answer_id": 460771,
+        "answer": 7
+      },
+      {
+        "answer_id": 460765,
+        "answer": 1
+      },
+      {
+        "answer_id": 460772,
+        "answer": 8
+      },
+      {
+        "answer_id": 460767,
+        "answer": 3
+      },
+      {
+        "answer_id": 460770,
+        "answer": 6
+      }
+    ],
+    "task133435": [
+      460786,
+      460785
+    ],
+    "task133434": "планеты",
+    "task133428": [
+      460745,
+      460746,
+      460747,
+      460748
+    ],
+    "task133436": 460792,
+    "task133433": [
+      {
+        "answer_id": 460779,
+        "answer": 0
+      },
+      {
+        "answer_id": 460778,
+        "answer": 1
+      },
+      {
+        "answer_id": 460781,
+        "answer": 0
+      },
+      {
+        "answer_id": 460782,
+        "answer": 1
+      },
+      {
+        "answer_id": 460780,
+        "answer": 1
+      }
+    ],
+    "task133419": "Сатурн",
+    "task133429": [
+      {
+        "answer_id": 460757,
+        "answer": 1
+      },
+      {
+        "answer_id": 460755,
+        "answer": 0
+      },
+      {
+        "answer_id": 460753,
+        "answer": 0
+      },
+      {
+        "answer_id": 460759,
+        "answer": 1
+      },
+      {
+        "answer_id": 460756,
+        "answer": 0
+      },
+      {
+        "answer_id": 460758,
+        "answer": 1
+      },
+      {
+        "answer_id": 460760,
+        "answer": 1
+      },
+      {
+        "answer_id": 460754,
+        "answer": 0
+      }
+    ],
+    "task133430": 460761,
+    "task133432": [
+      {
+        "answer_id": 460776,
+        "answer": 2
+      },
+      {
+        "answer_id": 460774,
+        "answer": 2
+      },
+      {
+        "answer_id": 460775,
+        "answer": 3
+      },
+      {
+        "answer_id": 460773,
+        "answer": 1
+      },
+      {
+        "answer_id": 460777,
+        "answer": 4
+      }
+    ],
+    "task148710": 514087,
+    "task148711": 514093,
+    "task148712": 514097,
+    "task148714": 514102,
+    "task148715": 514106,
+    "task148716": 514107,
+    "task148717": 514112,
+    "task148718": 514114,
+    "task148719": 514118,
+    "task89521": [
+      309118,
+      309120
+    ],
+    "task89520": "290",
+    "task89519": "-173",
+    "task89518": 309113,
+    "task89513": 309096,
+    "task89514": [
+      {
+        "answer_id": 309103,
+        "answer": 3
+      },
+      {
+        "answer_id": 309101,
+        "answer": 1
+      },
+      {
+        "answer_id": 309102,
+        "answer": 4
+      },
+      {
+        "answer_id": 309100,
+        "answer": 2
+      }
+    ],
+    "task89516": "температура",
+    "task89515": [
+      {
+        "answer_id": 309108,
+        "answer": 0
+      },
+      {
+        "answer_id": 309104,
+        "answer": 0
+      },
+      {
+        "answer_id": 309107,
+        "answer": 0
+      },
+      {
+        "answer_id": 309106,
+        "answer": 1
+      },
+      {
+        "answer_id": 309105,
+        "answer": 1
+      }
+    ],
+    "task89522": [
+      309122,
+      309123
+    ],
+    "task89517": "113; 36; 318; 15",
+    "task89102": 307703,
+    "task89106": 307719,
+    "task89101": [
+      {
+        "answer_id": 307702,
+        "answer": 0
+      },
+      {
+        "answer_id": 307700,
+        "answer": 1
+      },
+      {
+        "answer_id": 307701,
+        "answer": 0
+      },
+      {
+        "answer_id": 307699,
+        "answer": 0
+      }
+    ],
+    "task89104": [
+      {
+        "answer_id": 307710,
+        "answer": 0
+      },
+      {
+        "answer_id": 307709,
+        "answer": 0
+      },
+      {
+        "answer_id": 307708,
+        "answer": 1
+      },
+      {
+        "answer_id": 307707,
+        "answer": 1
+      }
+    ],
+    "task89109": [
+      {
+        "answer_id": 307730,
+        "answer": 1
+      },
+      {
+        "answer_id": 307731,
+        "answer": 0
+      },
+      {
+        "answer_id": 307729,
+        "answer": 0
+      },
+      {
+        "answer_id": 307728,
+        "answer": 0
+      }
+    ],
+    "task89100": [
+      307695,
+      307696
+    ],
+    "task89108": [
+      {
+        "answer_id": 307727,
+        "answer": 4
+      },
+      {
+        "answer_id": 307725,
+        "answer": 3
+      },
+      {
+        "answer_id": 307726,
+        "answer": 1
+      },
+      {
+        "answer_id": 307724,
+        "answer": 2
+      }
+    ],
+    "task89107": [
+      {
+        "answer_id": 307722,
+        "answer": 1
+      },
+      {
+        "answer_id": 307720,
+        "answer": 1
+      },
+      {
+        "answer_id": 307721,
+        "answer": 0
+      },
+      {
+        "answer_id": 307723,
+        "answer": 0
+      }
+    ],
+    "task89105": [
+      307711,
+      307712
+    ],
+    "task89113": [
+      307744,
+      307741
+    ],
+    "task89115": [
+      {
+        "answer_id": 307748,
+        "answer": 0
+      },
+      {
+        "answer_id": 307750,
+        "answer": 0
+      },
+      {
+        "answer_id": 307747,
+        "answer": 1
+      },
+      {
+        "answer_id": 307749,
+        "answer": 0
+      }
+    ],
+    "task89111": "353",
+    "task89114": "Ньютон",
+    "task89117": "105",
+    "task89110": 307732,
+    "task89116": [
+      307755
+    ],
+    "task89119": "Закон сохранения массы",
+    "task89112": [
+      {
+        "answer_id": 307739,
+        "answer": 0
+      },
+      {
+        "answer_id": 307737,
+        "answer": 0
+      },
+      {
+        "answer_id": 307738,
+        "answer": 0
+      },
+      {
+        "answer_id": 307740,
+        "answer": 1
+      }
+    ],
+    "task89547": "273",
+    "task89544": 309147,
+    "task89552": "Келвьин",
+    "task89545": [
+      {
+        "answer_id": 309153,
+        "answer": 1
+      },
+      {
+        "answer_id": 309154,
+        "answer": 0
+      },
+      {
+        "answer_id": 309151,
+        "answer": 1
+      },
+      {
+        "answer_id": 309152,
+        "answer": 1
+      },
+      {
+        "answer_id": 309155,
+        "answer": 0
+      }
+    ],
+    "task89546": [
+      309156,
+      309158
+    ],
+    "task89550": [
+      {
+        "answer_id": 309167,
+        "answer": 2
+      },
+      {
+        "answer_id": 309168,
+        "answer": 3
+      },
+      {
+        "answer_id": 309170,
+        "answer": 5
+      },
+      {
+        "answer_id": 309169,
+        "answer": 4
+      },
+      {
+        "answer_id": 309166,
+        "answer": 1
+      }
+    ],
+    "task89548": "температуры давления",
+    "task89551": "2",
+    "task89549": "0,04",
+    "task534938": "-73",
+    "task89334": 308520,
+    "task89337": [
+      {
+        "answer_id": 308528,
+        "answer": 1
+      },
+      {
+        "answer_id": 308529,
+        "answer": 1
+      },
+      {
+        "answer_id": 308530,
+        "answer": 0
+      },
+      {
+        "answer_id": 308531,
+        "answer": 0
+      },
+      {
+        "answer_id": 308527,
+        "answer": 1
+      }
+    ],
+    "task89329": 308501,
+    "task89336": "кулона амонтона",
+    "task89557": 309185,
+    "task516702": 1797905,
+    "task516719": 1797960,
+    "task516717": 1797956,
+    "task516721": 1797967,
+    "task516734": 1798015,
+    "task516695": 1797884,
+    "task516711": 1797931,
+    "task516715": 1797946,
+    "task516700": 1797899,
+    "task516714": 1797942,
+    "task89259": [
+      308226,
+      308228
+    ],
+    "task89264": [
+      {
+        "answer_id": 308256,
+        "answer": 0
+      },
+      {
+        "answer_id": 308255,
+        "answer": 1
+      },
+      {
+        "answer_id": 308254,
+        "answer": 0
+      },
+      {
+        "answer_id": 308253,
+        "answer": 1
+      }
+    ],
+    "task89254": 308209,
+    "task89253": [
+      {
+        "answer_id": 308207,
+        "answer": 0
+      },
+      {
+        "answer_id": 308208,
+        "answer": 0
+      },
+      {
+        "answer_id": 308205,
+        "answer": 0
+      },
+      {
+        "answer_id": 308206,
+        "answer": 1
+      }
+    ],
+    "task89252": 308203,
+    "task89258": 308222,
+    "task89255": [
+      308215
+    ],
+    "task89257": "35",
+    "task89283": 308331,
+    "task89293": 308367,
+    "task89288": "1",
+    "task89281": [
+      {
+        "answer_id": 308319,
+        "answer": 1
+      },
+      {
+        "answer_id": 308321,
+        "answer": 1
+      },
+      {
+        "answer_id": 308320,
+        "answer": 1
+      },
+      {
+        "answer_id": 308322,
+        "answer": 0
+      }
+    ],
+    "task89286": 308340,
+    "task89287": [
+      {
+        "answer_id": 308344,
+        "answer": 1
+      },
+      {
+        "answer_id": 308345,
+        "answer": 1
+      },
+      {
+        "answer_id": 308347,
+        "answer": 0
+      },
+      {
+        "answer_id": 308346,
+        "answer": 1
+      }
+    ],
+    "task89290": 308353,
+    "task89280": "ньютон",
+    "task89291": [
+      {
+        "answer_id": 308362,
+        "answer": 0
+      },
+      {
+        "answer_id": 308358,
+        "answer": 1
+      },
+      {
+        "answer_id": 308361,
+        "answer": 0
+      },
+      {
+        "answer_id": 308360,
+        "answer": 1
+      },
+      {
+        "answer_id": 308359,
+        "answer": 0
+      }
+    ],
+    "task89553": 309174,
+    "task89572": "520",
+    "task89569": [
+      {
+        "answer_id": 309220,
+        "answer": 4
+      },
+      {
+        "answer_id": 309222,
+        "answer": 2
+      },
+      {
+        "answer_id": 309221,
+        "answer": 1
+      },
+      {
+        "answer_id": 309224,
+        "answer": 5
+      },
+      {
+        "answer_id": 309223,
+        "answer": 3
+      }
+    ],
+    "task89564": 309209,
+    "task89570": [
+      {
+        "answer_id": 309225,
+        "answer": 1
+      },
+      {
+        "answer_id": 309227,
+        "answer": 2
+      },
+      {
+        "answer_id": 309226,
+        "answer": 1
+      },
+      {
+        "answer_id": 309228,
+        "answer": 3
+      }
+    ],
+    "task89567": "146,5",
+    "task89565": 309214,
+    "task89568": "изопроцесс",
+    "task89563": [
+      309206,
+      309207
+    ],
+    "task89566": "50",
+    "task133981": "Уран",
+    "task133977": [
+      {
+        "answer_id": 462750,
+        "answer": 4
+      },
+      {
+        "answer_id": 462747,
+        "answer": 1
+      },
+      {
+        "answer_id": 462748,
+        "answer": 2
+      },
+      {
+        "answer_id": 462749,
+        "answer": 3
+      }
+    ],
+    "task133983": "Нептун",
+    "task133984": "Уран",
+    "task133976": "Юпитер",
+    "task133985": [
+      {
+        "answer_id": 462774,
+        "answer": 0
+      },
+      {
+        "answer_id": 462772,
+        "answer": 0
+      },
+      {
+        "answer_id": 462775,
+        "answer": 0
+      },
+      {
+        "answer_id": 462773,
+        "answer": 1
+      },
+      {
+        "answer_id": 462771,
+        "answer": 1
+      }
+    ],
+    "task133979": "Сатурн",
+    "task133978": [
+      462752,
+      462753,
+      462754,
+      462751
+    ],
+    "task133982": [
+      462766,
+      462765
+    ],
+    "task133980": 462759,
+    "task516939": 1798747,
+    "task516861": 1798468,
+    "task516852": 1798442,
+    "task516947": 1798775,
+    "task516847": 1798427,
+    "task516881": 1798542,
+    "task516867": 1798488,
+    "task516870": 1798501,
+    "task516871": 1798506,
+    "task516876": 1798525,
+    "task133995": 462821,
+    "task133992": "титан",
+    "task133988": 462789,
+    "task133991": [
+      462806,
+      462805,
+      462804,
+      462807
+    ],
+    "task133986": [
+      462777,
+      462776
+    ],
+    "task133989": [
+      462793,
+      462792
+    ],
+    "task133987": 462783,
+    "task133994": "каллисто",
+    "task133993": [
+      {
+        "answer_id": 462815,
+        "answer": 1
+      },
+      {
+        "answer_id": 462819,
+        "answer": 0
+      },
+      {
+        "answer_id": 462813,
+        "answer": 1
+      },
+      {
+        "answer_id": 462816,
+        "answer": 1
+      },
+      {
+        "answer_id": 462812,
+        "answer": 0
+      },
+      {
+        "answer_id": 462814,
+        "answer": 0
+      },
+      {
+        "answer_id": 462818,
+        "answer": 0
+      },
+      {
+        "answer_id": 462817,
+        "answer": 1
+      }
+    ],
+    "task133990": [
+      {
+        "answer_id": 462802,
+        "answer": 0
+      },
+      {
+        "answer_id": 462803,
+        "answer": 1
+      },
+      {
+        "answer_id": 462799,
+        "answer": 0
+      },
+      {
+        "answer_id": 462801,
+        "answer": 1
+      },
+      {
+        "answer_id": 462798,
+        "answer": 1
+      },
+      {
+        "answer_id": 462800,
+        "answer": 1
+      }
+    ],
+    "task89862": [
+      310147,
+      310150
+    ],
+    "task89860": 310138,
+    "task89858": 310135,
+    "task89861": [
+      {
+        "answer_id": 310146,
+        "answer": 0
+      },
+      {
+        "answer_id": 310143,
+        "answer": 1
+      },
+      {
+        "answer_id": 310142,
+        "answer": 0
+      },
+      {
+        "answer_id": 310145,
+        "answer": 1
+      },
+      {
+        "answer_id": 310144,
+        "answer": 0
+      }
+    ],
+    "task89864": [
+      310152
+    ],
+    "task89865": "8,31",
+    "task89859": "14",
+    "task89866": "4,5",
+    "task89863": " РАБОТА",
+    "task203651": 711824,
+    "task203643": 711796,
+    "task203648": 711810,
+    "task203633": [
+      {
+        "answer_id": 711751,
+        "answer": 0
+      },
+      {
+        "answer_id": 711752,
+        "answer": 1
+      },
+      {
+        "answer_id": 711753,
+        "answer": 0
+      },
+      {
+        "answer_id": 711750,
+        "answer": 1
+      }
+    ],
+    "task203631": 711741,
+    "task203640": [
+      {
+        "answer_id": 711783,
+        "answer": 1
+      },
+      {
+        "answer_id": 711784,
+        "answer": 2
+      },
+      {
+        "answer_id": 711786,
+        "answer": 4
+      },
+      {
+        "answer_id": 711785,
+        "answer": 3
+      }
+    ],
+    "task203636": [
+      711767,
+      711765,
+      711768
+    ],
+    "task203646": [
+      {
+        "answer_id": 711807,
+        "answer": 0
+      },
+      {
+        "answer_id": 711806,
+        "answer": 1
+      },
+      {
+        "answer_id": 711805,
+        "answer": 1
+      },
+      {
+        "answer_id": 711808,
+        "answer": 0
+      }
+    ],
+    "task203637": 711770,
+    "task203634": 711757,
+    "task89323": "250",
+    "task89321": 308473,
+    "task89322": [
+      308478,
+      308477
+    ],
+    "task89316": "100",
+    "task89319": 308465,
+    "task89315": [
+      308453,
+      308451,
+      308450
+    ],
+    "task89324": "13,3",
+    "task89325": 308485,
+    "task89318": [
+      {
+        "answer_id": 308463,
+        "answer": 5
+      },
+      {
+        "answer_id": 308460,
+        "answer": 1
+      },
+      {
+        "answer_id": 308461,
+        "answer": 2
+      },
+      {
+        "answer_id": 308462,
+        "answer": 4
+      },
+      {
+        "answer_id": 308459,
+        "answer": 3
+      }
+    ],
+    "task180876": [
+      631077,
+      631079
+    ],
+    "task180860": 631022,
+    "task180872": "2",
+    "task180871": 631060,
+    "task180878": 631085,
+    "task180873": 631066,
+    "task180862": 631032,
+    "task180864": "14",
+    "task180868": [
+      631050
+    ],
+    "task180879": "4,8",
+    "task134024": "фотосфера",
+    "task134025": [
+      {
+        "answer_id": 462924,
+        "answer": 4
+      },
+      {
+        "answer_id": 462922,
+        "answer": 1
+      },
+      {
+        "answer_id": 462923,
+        "answer": 2
+      }
+    ],
+    "task134021": [
+      {
+        "answer_id": 462915,
+        "answer": 0
+      },
+      {
+        "answer_id": 462911,
+        "answer": 1
+      },
+      {
+        "answer_id": 462913,
+        "answer": 0
+      },
+      {
+        "answer_id": 462914,
+        "answer": 0
+      },
+      {
+        "answer_id": 462912,
+        "answer": 1
+      }
+    ],
+    "task134017": [
+      {
+        "answer_id": 462898,
+        "answer": 0
+      },
+      {
+        "answer_id": 462900,
+        "answer": 1
+      },
+      {
+        "answer_id": 462899,
+        "answer": 0
+      },
+      {
+        "answer_id": 462901,
+        "answer": 0
+      }
+    ],
+    "task134016": "солнце",
+    "task134020": 462907,
+    "task134019": 462903,
+    "task134023": "333",
+    "task134022": 462916,
+    "task134018": "5745",
+    "task134067": [
+      {
+        "answer_id": 463052,
+        "answer": 1
+      },
+      {
+        "answer_id": 463055,
+        "answer": 0
+      },
+      {
+        "answer_id": 463054,
+        "answer": 0
+      },
+      {
+        "answer_id": 463051,
+        "answer": 1
+      },
+      {
+        "answer_id": 463053,
+        "answer": 0
+      }
+    ],
+    "task134070": "протуберанец",
+    "task134064": "500",
+    "task134066": [
+      463046,
+      463047,
+      463048
+    ],
+    "task134065": 463042,
+    "task134063": "Солнце",
+    "task134072": "спикулы",
+    "task134071": 463066,
+    "task134068": [
+      463056,
+      463057
+    ],
+    "task134069": [
+      {
+        "answer_id": 463061,
+        "answer": 2
+      },
+      {
+        "answer_id": 463060,
+        "answer": 1
+      },
+      {
+        "answer_id": 463062,
+        "answer": 3
+      },
+      {
+        "answer_id": 463063,
+        "answer": 5
+      }
+    ]
+  }
+}
