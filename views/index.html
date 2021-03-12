@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="/global.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A cool thing made with Glitch">
+    <title>Welcome! (* ^ ω ^)</title>
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/style.css">
+    <script src="/index.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>solve-thetest (¬‿¬ )</h1>
+    </header>
+    
+    <main>
+      <h2>An app which makes it possible to check videouroki tests for mistakes</h2>
+      <p>How to use:</p>
+      <form action="/test/">
+        <ol>
+          <li>Go to /test?testId=id</li>
+          <li>Download the test if you do not have it in your localStorage</li>
+          <li>Solve the test</li>
+          <li>Right answer for every task will be saved in your localStorage</li>
+          <li>Export answers: either in code form or human-readible</li>
+        </ol>
+        <label>
+          Enter testId
+          <input name="testId" type="text" maxlength="12" required placeholder="testId!">
+        </label>
+        <button type="submit">Solve The Test!</button>
+      </form>
+      <section class="dreams">
+        <h4>
+          localStorage data size:
+        </h4>
+        <span><span id="localStorage"></span> of 5MiB (<span id="localStoragePercentage"></span>)</span>
+        <progress id="size" max="5120" value="0"></progress>
+      </section>
+      <section class="dreams">
+        <h4>
+          Saved answers:
+        </h4>
+        <span id="answers">
+          Answers Saved: 0, Answers Size: 0 KiB
+        </span>
+      </section>
+      <section class="dreams">
+        <h4>
+          Saved tests:
+        </h4>
+        <ul id="tests">
+
+        </ul>
+      </section>
+    </main>
+
+    <footer>All credit goes to <a href="https://vk.com/gluchnosti">Gluchnosti</a>!</footer>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:2em;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js" defer></script>
+  </body>
+</html>
