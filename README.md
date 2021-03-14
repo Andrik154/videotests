@@ -1,6 +1,6 @@
 # solve-thetest
 
-An app which makes it possible to solve **videouroki.net** tests beforehand
+An app which makes it possible to solve **videouroki.net** tests
 
 ## How do I solve a test?
 
@@ -10,7 +10,6 @@ An app which makes it possible to solve **videouroki.net** tests beforehand
 - Answers to all tasks will be saved in your localStorage
 - Export your answers: human-readible or JS code
 
-Your downloaded tests can be found at index page (/)
-### Made with [Glitch](https://glitch.com/)
+Your downloaded tests can be found at the index page (/)
 
 ( ᵔ ᴥ ᵔ )
